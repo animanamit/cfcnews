@@ -1,5 +1,5 @@
 import React from "react";
-import { Card, Image, Grid, Header } from "semantic-ui-react";
+import { Image, Grid, Header } from "semantic-ui-react";
 
 const GameCard = props => {
   return (

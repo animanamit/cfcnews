@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { getFixtures } from "../services/getFixtures";
 import GameCard from "./GameCard";
-import { Card, Header, Grid } from "semantic-ui-react";
+import { Header, Grid } from "semantic-ui-react";
 
 const Fixtures = () => {
   const [fixtures, setFixtures] = useState([]);
