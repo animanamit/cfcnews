@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.leaguetable {
+  padding-left: 40%;
+}
